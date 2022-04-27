@@ -12,9 +12,9 @@ Uses fyne and excelize library.
 !! Depending how big the population gets, the excel file may not hold all of the population individuals, or program may crash if excel row is reached.
 
 
-#GUI
+# GUI
 ![GUI](https://user-images.githubusercontent.com/93850550/165607854-2e65cdd5-30a9-4f7f-955c-5333b4e87ec6.png)
 
-#Data
+# Data Sample
 ![image](https://user-images.githubusercontent.com/93850550/165641765-d4221b79-046d-4fe9-8e2e-bf003f228aeb.png)
 
