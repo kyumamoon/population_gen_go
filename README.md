@@ -1,5 +1,5 @@
 # population_gen_go
-A random program that generates and simulates a virtual population data given a set of initial requirements.
+A random program that generates a virtual population data given initial parameters.
 Uses fyne and excelize library.
 
 # How to use:
